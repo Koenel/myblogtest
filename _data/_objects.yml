@@ -1,0 +1,20 @@
+- name: first object
+  type: picture
+  content: ski jump
+
+- name: second object
+  type: picture
+  content: ice hockey
+
+- name: third object
+  type: picture
+  content: landscape
+
+- name: fourth object
+  type: article
+  content: description of alpine curling
+
+- name: fifth object
+  type: orbituary
+  content: orbituary of athlete Schwarz
+
