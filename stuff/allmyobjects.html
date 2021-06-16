@@ -2,3 +2,6 @@
 layout: page
 title: Collection Objects
 ---
+{% for entry in site.data.objects %}
+  {{ entry.name }}
+{% endfor %}
