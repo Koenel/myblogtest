@@ -4,4 +4,20 @@ title: Collection Objects
 ---
 {% for entry in site.data.objects %}
   <p>{{ entry.name }}</p>
+
+{% else %}
+
+<p>Couldn't find anything</p>
+
 {% endfor %}
+
+<table>
+  {% tablerow entry in site.data.objects %}
+    {{entry.name}}
+  {% endtablerow %}
+
+  {% tablerow entry in site.data.objects %}
+    {{entry.content}}
+  {% endtablerow %}
+
+</table>
