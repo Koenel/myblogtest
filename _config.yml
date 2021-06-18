@@ -31,9 +31,6 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
-collection: 
-  recipes:
-    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -54,3 +51,7 @@ collection:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collection: 
+  recipes:
+    output: true
