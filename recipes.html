@@ -4,6 +4,7 @@ title: Recipes and pictures
 ---
 
 {% for object in site.recipes %}
+{{ object.url}}
   <hr2>{{ object.title}} : {{object.year}}</hr2>
 <img src="{{object.image}}" alt="{{object.title}}">
 {% endfor %}
