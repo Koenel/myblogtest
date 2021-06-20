@@ -55,3 +55,7 @@ plugins:
 collection: 
   recipes:
     output: true
+
+collection:
+  archives:
+    output: true
