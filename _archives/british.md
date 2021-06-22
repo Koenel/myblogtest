@@ -1,5 +1,5 @@
 ---
-layout: digitalobject
+layout: digitalarchive
 name: British Museum
 url: https://www.britishmuseum.org/
 country: UK

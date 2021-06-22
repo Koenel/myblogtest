@@ -1,5 +1,5 @@
 ---
-layout: digitalobject
+layout: digitalarchive
 name: Museum of Colour
 url: https://museumofcolour.org.uk/
 country: UK
