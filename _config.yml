@@ -59,3 +59,7 @@ collection:
 collection:
   archives:
     output: true
+
+collection:
+  cookies:
+    output: true
