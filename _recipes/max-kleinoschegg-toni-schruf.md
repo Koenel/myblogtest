@@ -1,5 +1,5 @@
 ---
-layout: digitalobject
+layout: page
 title: Max Kleinoschegg Toni Schruf
 medium: photograph
 year: 1904

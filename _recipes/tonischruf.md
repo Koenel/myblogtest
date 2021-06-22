@@ -1,5 +1,5 @@
 ---
-layout: digitalobject
+layout: page
 title: Toni Schruf
 medium: photograph
 year: unknown
