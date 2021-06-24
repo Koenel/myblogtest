@@ -52,13 +52,9 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-collection: 
+collections: 
   recipes:
     output: true
-
-collection:
   archives:
     output: true
-
-collection:
   cookies:
