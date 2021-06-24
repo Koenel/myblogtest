@@ -2,7 +2,7 @@
 layout: digitalobject
 title: Toni Schruf
 medium: photograph
-year: unknown
+year: 1998
 owner: unknown
 artist: unknown
 permanent_url: http://austria-forum.org/attach/Biographien/Schruf%2C_Toni/Toni%20rund.jpg
