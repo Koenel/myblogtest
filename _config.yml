@@ -56,3 +56,5 @@ collections:
   recipes:
     output: true
 #   archives:
+#    output: true
+#   cookies:
